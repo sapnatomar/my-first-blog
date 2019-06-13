@@ -31,8 +31,10 @@ h1, h2, h3, h4 {
     color: #828282;
 }
 
-.save {
+.save, .cancel {
     float: right;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .post-form textarea, .post-form input {
